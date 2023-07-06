@@ -2,9 +2,9 @@
 #Mirce pe YouTube
 
 import time
-nrMindDeCaractere = 6
+nrMindDeCaractere = 10
 litere = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z' ]
-f = open("Parola.txt","r")
+f = open("google.txt","r")
 parola_cauta = f.readline()
 
 parola = [0]*nrMindDeCaractere
